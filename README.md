@@ -14,6 +14,5 @@
 
 该仓库由 [LittleSongs](https://github.com/LittleSongs) 提供。
 
-![](./weixin.jpg)
-
+<img src="./weixin.jpg" width="400px">
 
